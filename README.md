@@ -1,6 +1,6 @@
 # 💯 About Me:
 
-📚I’m studying Applied Informatics on University of Macedonia.<br>💻I have worked on small projects for FiveM Servers.
+📚I’m studying Applied Informatics at the University of Macedonia.<br>💻I have worked on small projects for FiveM Servers.
 
 ## 🌐 Socials:
 
@@ -8,7 +8,7 @@
 
 # 💻 Languages and Tools (that I have worked on):
 
-![C](/assets/c.svg) ![Java](/assets/java.png) ![Lua](/assets/lua.svg) ![HTML5](/assets/html5.svg) ![CSS3](/assets/css3.svg) ![JavaScript](/assets/js.svg) ![PHP](/assets/php.svg) ![MariaDB](/assets/mariadb.svg) ![MySQL](/assets/mysql.svg) ![Adobe Photoshop](/assets/ps.svg) ![Adobe Premiere Pro](/assets/premiere.svg) ![LINUX](/assets/linux.svg)
+[![C](/assets/c.svg)](https://devdocs.io/c/) [![Java](/assets/java.png)](https://www.java.com/en/) [![Lua](/assets/lua.svg)](https://www.lua.org) [![HTML5](/assets/html5.svg)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](/assets/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](/assets/js.svg)](https://developer.mozilla.org/en-US/docs/Web/Javascript) [![PHP](/assets/php.svg)](https://www.php.net) [![MariaDB](/assets/mariadb.svg)](https://mariadb.org) [![MySQL](/assets/mysql.svg)](https://www.mysql.com) [![Adobe Photoshop](/assets/ps.svg)](https://www.adobe.com/products/photoshop.html) [![Adobe Premiere Pro](/assets/premiere.svg)](https://www.adobe.com/gr_en/products/premiere.html) [![LINUX](/assets/linux.svg)](https://www.linux.org)
 
 # 📊 GitHub Stats:
 
