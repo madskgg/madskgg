@@ -1,6 +1,6 @@
 # 💯 About Me:
 
-📚I’m studying Applied Informatics on University of Macedonia.<br>💻I have worked on small projects for FiveM Servers.
+📚I’m studying Applied Informatics at the University of Macedonia.<br>💻I have worked on small projects for FiveM Servers.
 
 ## 🌐 Socials:
 
